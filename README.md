@@ -198,6 +198,11 @@ showcasing my approach to testing software applications.
 ```text
 Software Testing
       │
+      ├── Manual Testing
+      │     ├── Functional Testing
+      │     ├── Test Case Design
+      │     └── Bug Reporting
+      │
       ├── API Testing
       │     ├── REST API
       │     ├── HTTP
@@ -209,5 +214,3 @@ Software Testing
       │
       └── Automation
             └── Playwright
-            └── Typescript
-            
