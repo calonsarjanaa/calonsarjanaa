@@ -154,12 +154,12 @@ showcasing my approach to testing software applications.
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=calonsarjanaa&show_icons=true&hide_border=true&theme=tokyonight"
     height="170"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=calonsarjanaa&layout=compact&hide_border=true&theme=tokyonight"
     height="170"
   />
 
