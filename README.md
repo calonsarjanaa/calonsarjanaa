@@ -3,18 +3,6 @@
 <p align="center">
   <img src="./assets/bannerr.png" width="100%" alt="Isan - Software QA">
 </p>
-
-<h1 align="center">Hi, I'm Isan 👋</h1>
-
-<p align="center">
-  <strong>Software QA | Software Tester</strong>
-</p>
-
-<p align="center">
-  Manual Testing • API Testing • Test Documentation • SQL • Automation
-</p>
-
-
 <!-- ======================= ABOUT ======================= -->
 
 ## 👨‍💻 About Me
@@ -28,7 +16,7 @@ help improve software quality.
 
 Currently, I'm focusing on developing my skills in:
 
-- 🧪 Manual & Functional Testing
+- 🧪 Manual Testing
 - 🔌 API Testing
 - 📋 Test Case & Test Scenario Design
 - 🐛 Bug Reporting & Defect Documentation
@@ -156,7 +144,7 @@ showcasing my approach to testing software applications.
 - API Testing
 - Testing Documentation
 
-👉 **[View Portfolio](#)**
+👉 **[View Portfolio]()**
 
 
 <!-- ======================= GITHUB STATS ======================= -->
@@ -185,7 +173,7 @@ showcasing my approach to testing software applications.
 <p align="center">
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=calonsarjanaa&theme=tokyonight&hide_border=true"
   />
 
 </p>
@@ -197,11 +185,6 @@ showcasing my approach to testing software applications.
 
 ```text
 Software Testing
-      │
-      ├── Manual Testing
-      │     ├── Functional Testing
-      │     ├── Test Case Design
-      │     └── Bug Reporting
       │
       ├── API Testing
       │     ├── REST API
