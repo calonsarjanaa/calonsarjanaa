@@ -62,7 +62,7 @@ Currently, I'm focusing on developing my skills in:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman" height="60" alt="postman logo"  />
   <img width="12" />
-  <img src="UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8" height="60" alt="playwright logo"  />
+  <img src="https://github.com/microsoft/playwright/blob/2f6148bcd1a96ec687d55ce08645fc6315b1514e/packages/recorder/public/playwright-logo.svg" height="60" alt="playwright logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/selenium.svg" height="60" alt="canva logo"  />
   <img width="12" />
