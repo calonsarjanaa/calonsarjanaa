@@ -45,48 +45,32 @@ Currently, I'm focusing on developing my skills in:
 ## 🛠️ Tools & Technologies
 
 <p align="center">
+###
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       width="45"
-       alt="Git"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://gist.github.com/UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8.js" height="60" alt="playwright logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/selenium.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+</div>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       width="45"
-       alt="GitHub"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-       width="45"
-       alt="PostgreSQL"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       width="45"
-       alt="JavaScript"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-       width="45"
-       alt="Node.js"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       width="45"
-       alt="React"/>
-
-</p>
-
-<p align="center">
-
-  <img src="https://cdn.simpleicons.org/postman"
-       width="45"
-       alt="Postman"/>
-
-  <img src="https://cdn.simpleicons.org/playwright"
-       width="45"
-       alt="Playwright"/>
-
-  <img src="https://cdn.simpleicons.org/selenium"
-       width="45"
-       alt="Selenium"/>
-
-</p>
+###
 
 
 <!-- ======================= PROJECTS ======================= -->
