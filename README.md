@@ -132,8 +132,8 @@ showcasing my approach to testing software applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/calonsarjanaa/github-readme-stats/actions">
-    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+  <a href="https://ghstats.dev/api/card?username=calonsarjanaa&theme=radical&border_radius=6.5">
+    <img alt="Tests Passing" src="https://ghstats.dev/api/card?username=calonsarjanaa&theme=radical&border_radius=6.5" />
   </a>
 </p>
 
