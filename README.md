@@ -45,12 +45,10 @@ Currently, I'm focusing on developing my skills in:
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
@@ -64,13 +62,11 @@ Currently, I'm focusing on developing my skills in:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman" height="60" alt="postman logo"  />
   <img width="12" />
-  <img src="https://gist.github.com/UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8.js" height="60" alt="playwright logo"  />
+  <img src="UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8" height="60" alt="playwright logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/selenium.svg" height="60" alt="canva logo"  />
   <img width="12" />
 </div>
-
-###
 
 
 <!-- ======================= PROJECTS ======================= -->
