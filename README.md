@@ -56,11 +56,11 @@ Currently, I'm focusing on developing my skills in:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman" height="60" alt="postman logo"  />
   <img width="12" />
