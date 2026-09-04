@@ -46,25 +46,33 @@ Currently, I'm focusing on developing my skills in:
 
 <p align="center">
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman" height="60" alt="postman logo"  />
-  <img width="12" />
   <img src="https://github.com/microsoft/playwright/blob/2f6148bcd1a96ec687d55ce08645fc6315b1514e/packages/recorder/public/playwright-logo.svg" height="60" alt="playwright logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/selenium.svg" height="60" alt="canva logo"  />
+  <img src="https://skillicons.dev/icons?i=selenium" height="60" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/burp-suite/default.svg" height="45" alt="burpsuite logo" />
   <img width="12" />
 </div>
 
@@ -110,7 +118,7 @@ A collection of REST API testing exercises using Postman.
 👉 **[View Project](#)**
 
 
-### 🔹 QA Portfolio
+### 🔹 QA Portfolio Website
 
 A collection of software testing documentation and projects
 showcasing my approach to testing software applications.
@@ -124,7 +132,7 @@ showcasing my approach to testing software applications.
 - API Testing
 - Testing Documentation
 
-👉 **[View Portfolio]()**
+👉 **[View Portfolio](https://github.com/calonsarjanaa/quality-assurance-portfolio)**
 
 
 <!-- ======================= GITHUB STATS ======================= -->
@@ -143,11 +151,7 @@ showcasing my approach to testing software applications.
 ## 🔥 Contribution
 
 <p align="center">
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=calonsarjanaa&theme=tokyonight&hide_border=true"
-  />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calonsarjanaa&theme=radical&hide_border=true"/>
 </p>
 
 
