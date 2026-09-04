@@ -132,17 +132,9 @@ showcasing my approach to testing software applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=calonsarjanaa&show_icons=true&hide_border=false&theme=tokyonight"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=calonsarjanaa&layout=compact&hide_border=false&theme=tokyonight"
-    height="170"
-  />
-
+  <a href="https://github.com/calonsarjanaa/github-readme-stats/actions">
+    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+  </a>
 </p>
 
 
