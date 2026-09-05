@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="./assets/bannerr.png" width="100%" alt="Isan - Software QA">
+  <img src="./assets/banner3.png" width="100%" alt="Isan - Software QA">
 </p>
 <!-- ======================= ABOUT ======================= -->
 
